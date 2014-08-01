@@ -1,0 +1,21 @@
+{
+	"author": "Jesper Blaase Jensen",
+	"name": "cpsms",
+	"description": "Node module to easily use the cpsms.dk gateway",
+	"version": "0.0.2",
+	"repository": {
+		"url": "https://github.com/Anitaviz/cpsms.git"
+	},
+	"main": "./lib/cpsms",
+	"dependencies": {
+	},
+	"keywords":[
+		"sms",
+		"cpsms"
+	],
+	"devDependencies": {},
+	"optionalDependencies": {},
+	"engines": {
+		"node": "*"
+	}
+}
